@@ -2,7 +2,10 @@ Non-beliefism
 ==================
 
 Beyond atheism, non-beliefism (coined by God Bennett in 2015) enables a state of mind that rejects not merely religious belief, but the very concept of belief.   
+
 Thus, this paradigm persists such that belief is scrutinized/purged. (be it atheistic or theistic)  
+
+The reasonably optimal goal is to contribute to critical thinking/atheistic/scientific methologogies for contributing to artificial general intelligence, often refered to as man's invention.
 
 
 
