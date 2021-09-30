@@ -17,7 +17,7 @@ https://www.researchgate.net/publication/319304479_Non_beliefism
 
 
 
-Website Code
+Website Code (requires xampp or wamp)
 ==================
 Home page decoration: https://drive.google.com/file/d/1ey107ifn2-al0bYPpV_-Ejg03jdXRx_j/
 
